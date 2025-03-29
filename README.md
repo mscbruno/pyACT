@@ -5,4 +5,4 @@ The library requirements are specified in the first lines of the code.
 The file ACT_Mech_main is the main executable, and uses the functions defined in pyMechACT.
 An input file is required, containing the experimental information examplified in the file TiO2.csv.
 
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License – see the [LICENSE](LICENSE.md) file for details.
